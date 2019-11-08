@@ -1,0 +1,96 @@
+.col-md-2 {
+
+position:relative;    
+margin-right:140px;
+margin-bottom:25px;
+
+}
+
+.col-md-3 {
+
+position:relative;
+margin-right:140px;
+margin-bottom:25px;
+margin-left:25px;
+
+}
+
+.col-md-2 .btn1 {
+
+  position: absolute;
+  top: 75%;
+  left: 75%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #ffffff;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 40px; 
+  font-family: 'McLaren', cursive;
+}
+
+.col-md-3 .btn1 {
+
+  position: absolute;
+  top: 75%;
+  left: 75%;
+  transform: translate(-50%, -50%);
+  /*-ms-transform: translate(-50%, -50%);*/
+  background-color: #ffffff;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 40px; 
+  font-family: 'McLaren', cursive;
+}
+
+.navbar-form {
+
+ 
+text-align:center;    
+
+}
+
+.mountain {
+
+width: 879px;
+height:452px;
+    
+}
+
+.navbar2-text {
+
+width: 100%;
+text-align:center;    
+background-color: black;
+font-family: 'McLaren', cursive;
+
+}
+
+.navbar2-text .nav-item {
+ 
+color: white;   
+    
+}
+
+.navbar1-text {
+    
+width: 100%;
+text-align: right;    
+background-color: teal;
+font-family: 'McLaren', cursive;
+    
+}
+
+.navbar1-text .nav-item {
+ 
+color: black;   
+    
+}
+
+
